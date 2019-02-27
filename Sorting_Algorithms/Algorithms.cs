@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Sorting_Algorithms
 {
+    /// <summary>
+    /// A class for algorithms
+    /// </summary>
     public class Algorithms
     {
         public static int[] Insertion(IEnumerable<int> arr) //minor
